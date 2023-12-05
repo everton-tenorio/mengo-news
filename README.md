@@ -1,6 +1,6 @@
 # Mengo News
 
-### Scraping football news using Golang.
+### Scraping and sending Flamengo news using Golang and Telegram.
 
 <div>
   <img src="./assets/example.gif" width="20%">
