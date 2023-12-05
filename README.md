@@ -2,5 +2,7 @@
 
 ### Scraping football news using Golang.
 
-<img src="example.gif" width="30%">
-<img src="go.png" width="10%">
+<img src="./assets/example.gif" width="30%">
+<img src="./assets/go.png" width="10%">
+
+
