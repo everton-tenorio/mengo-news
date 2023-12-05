@@ -73,7 +73,7 @@ func main() {
 		}
 	})
 
-	// scraping the product data
+	// scraping the news data
 	c.OnHTML("ul.list-unstyled li", func(e *colly.HTMLElement) {
 		mengoPost := MengaoNews{}
 
