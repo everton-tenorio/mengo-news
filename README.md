@@ -9,4 +9,6 @@
   <p><img align="center" src="./assets/flamengo-news.png" width="65%"></p>
 </div>
 
-
+# Instructions
+<p>1. <a href="https://go.dev/dl/">Download</a> and <a href="https://go.dev/doc/install">install Go</a></p>
+<p>2. <pre>go run mengonews.go</pre></p>
