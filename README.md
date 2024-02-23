@@ -4,7 +4,13 @@
 
 # Instructions
 <p>1. <a href="https://go.dev/dl/">Download</a> and <a href="https://go.dev/doc/install">install Go</a>
-<p>2. Run mengonews.go <pre>go run mengonews.go</pre></p>
+<p>2. Create .env file 
+<pre>
+  TELEGRAM_TOKEN= "token"
+  ID= "chat_id"
+</pre>
+</p>  
+<p>3. Run mengonews.go <pre>go run mengonews.go</pre></p>
 
 --- 
 <div align="center">
