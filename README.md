@@ -25,7 +25,11 @@
 <p>2. Run mengo-news 
   
 ```bash
-docker run -dt --rm --name mengo-news -v $(pwd):/app -w /app golang:alpine go build -v && ./mengo-news
+docker run -dt --rm --name mengo-news -v $(pwd):/app -w /app golang:alpine go build -v
+```
+
+```bash
+./mengo-news
 ```
 </p>
 
